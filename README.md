@@ -10,10 +10,10 @@ This project analyzes key drivers affecting occupancy rates in the Paris Airbnb 
 ## Dashboard Preview
 
 ### Page 1 – Executive Summary
-![Executive Summary](page1.png)
+![Executive Summary](dashboard/page1.png)
 
 ### Page 2 – Driver Impact Analysis
-![Driver Analysis](page2.png)
+![Driver Analysis](dashboard/page2.png)
 
 ---
 
